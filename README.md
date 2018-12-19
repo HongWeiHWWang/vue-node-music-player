@@ -1,4 +1,4 @@
-# Music Player by Vue Stack
+# Music Player by Vue Node Stack
 
 ## Static pages
 
