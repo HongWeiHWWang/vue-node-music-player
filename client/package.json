@@ -1,0 +1,8 @@
+{
+  "name": "vue-node-music-player",
+  "version": "0.1.0",
+  "description": "A music player client by vue node stack)",
+  "main": "main.js",
+  "author": "David",
+  "license": "ISC"
+}
